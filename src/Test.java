@@ -7,7 +7,10 @@ public class Test {
 	
 	public static void main(String[] args) {
 		Person p =  new Person();
+		Animal a = new Animal();
 		p.Person();
+		a.Animal();
+	    
 	}
 
 }
